@@ -1,5 +1,6 @@
 # douban_scrapy
-scrapy douban top 250 movies
+* 最简单的一个爬虫demo，通过慕课网上老师的学习，爬取豆瓣网上top250电影并存储到数据库
+* 慕课网视频：https://www.imooc.com/video/17519
 ### 框架：scrapy
 * 学习教程：https://scrapy-chs.readthedocs.io/zh_CN/0.24/
 ### 语言：python
